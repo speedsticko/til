@@ -13,6 +13,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 * Computer Science
 * Security
 * Machine Learning
+* Web Programming
  
 
 ---
@@ -32,3 +33,9 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 
 ### Machine Learning
 - [Deep Learning for Natural Language Processing](machinelearning/deep-learning-for-natural-language-processing.md)
+
+
+---
+
+### Web Programming
+- [How WebSockets works](web/websockets.md)
