@@ -31,6 +31,9 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [IO Completion Ports](win32/io-completion-ports.md)
 - [Crypto API](win32/crypto-api.md)
 
+### C++
+- [Memory Allocators](c++/memory-allocators.md)
+- [eidianess]
 
 ### Machine Learning
 - [Deep Learning for Natural Language Processing](machinelearning/deep-learning-for-natural-language-processing.md)
