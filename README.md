@@ -9,6 +9,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 * Performance
 * Windows Systems Programming
 * C++
+* C#, F#, .Net 
 * JavaScript
 * Computer Science
 * Security
@@ -32,7 +33,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [Crypto API](win32/crypto-api.md)
 
 ### C++
-- [Memory Allocators](c++/memory-allocators.md)
+- [Memory Allocators](cpp/memory-allocators.md)
 - [eidianess]
 
 ### Machine Learning
