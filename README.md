@@ -26,6 +26,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ---
 
 ### Windows Systems Programming
+- [Http Server Api 2.0 Usage](win32/http-server-api-usage.md)
 - [WebSockets in HTTP Server API 2.0](win32/websockets-http-server-api.md)
 - [IO Completion Ports](win32/io-completion-ports.md)
 - [Crypto API](win32/crypto-api.md)
