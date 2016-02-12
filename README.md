@@ -31,6 +31,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [WebSockets in HTTP Server API 2.0](win32/websockets-http-server-api.md)
 - [IO Completion Ports](win32/io-completion-ports.md)
 - [Crypto API](win32/crypto-api.md)
+- [Hidden Heap performance counters](win32/hidden-heap-performance-counters.md)
 
 ### C++
 - [Memory Allocators](cpp/memory-allocators.md)
