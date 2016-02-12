@@ -6,6 +6,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ---
 
 ### Categories
+* Fundamentals
 * Performance
 * Windows Systems Programming
 * C++
@@ -16,6 +17,10 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 * Machine Learning
 * Web Programming
  
+
+---
+### Fundamentals
+- [How to go about troubleshooting](fundamentals/troubleshooting.md)
 
 ---
 
