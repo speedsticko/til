@@ -8,6 +8,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ### Categories
 * Fundamentals
 * Performance
+* Networking
 * Windows Systems Programming
 * C++
 * C#, F#, .Net 
@@ -28,6 +29,11 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [Dealing with memory contention in multithreaded systems](performance/memory-contention-in-multithreaded-systems.md)
 - [How Event Tracing for Windows work](performance/event-tracing-for-windows.md)
 - [How Performance Counters work](performance/performance-counters.md)
+
+---
+
+### Networking
+- [TCP Retransmit](networking/tcp-retransmits.md)
 
 ---
 
