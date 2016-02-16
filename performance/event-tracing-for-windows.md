@@ -2,6 +2,21 @@
 
 This is the most efficient way to adding event tracing to your Windows programs. 
 
+Concepts
+========
+Provider
+Consumsers
+Tracing Session
+
+To register a provider and schema:
+```
+wevtutil im provider.man
+```
+
+To unregister a provider and schema:
+```
+wevtutil um provider.man
+```
 To get a list of providers for Http related events:
 
 ```
