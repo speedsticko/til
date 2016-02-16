@@ -57,3 +57,4 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 
 ### Web Programming
 - [How WebSockets works](web/websockets.md)
+- [Same Origin Policy and CORS](web/same-origin-policy-and-cors.md)
