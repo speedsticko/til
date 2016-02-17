@@ -37,3 +37,4 @@ Microsoft Message Analyzer (the successor to NetMon) is a good tool that can con
 
 My sources:
 - [Part 2 - Exploring and Decoding ETW Providers using Event Log Channels](http://blogs.msdn.com/b/ntdebugging/archive/2009/09/08/exploring-and-decoding-etw-providers-using-event-log-channels.aspx)
+- [.NET Event Tracing for Windows](http://blogs.msdn.com/b/dixi/archive/2009/04/23/net-event-tracing-for-windows.aspx)
