@@ -43,6 +43,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [IO Completion Ports](win32/io-completion-ports.md)
 - [Crypto API](win32/crypto-api.md)
 - [Hidden Heap performance counters](win32/hidden-heap-performance-counters.md)
+- [Synchronization Primatives](win32/synchronization-primatives.md)
 
 ### C++
 - [Memory Allocators](cpp/memory-allocators.md)
