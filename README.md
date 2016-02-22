@@ -44,6 +44,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [Crypto API](win32/crypto-api.md)
 - [Hidden Heap performance counters](win32/hidden-heap-performance-counters.md)
 - [Synchronization Primatives](win32/synchronization-primatives.md)
+- [OpenTrace, ProcessTrace for consuming ETW traces](win32/consuming-etl-etw-traces.md)
 
 ### C++
 - [Memory Allocators](cpp/memory-allocators.md)
