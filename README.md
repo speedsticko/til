@@ -22,6 +22,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ---
 ### Fundamentals
 - [How to go about troubleshooting](fundamentals/troubleshooting.md)
+- [Confident deployment](fundamentals/confident-deployment.md)
 
 ---
 
