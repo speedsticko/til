@@ -7,6 +7,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 
 ### Categories
 * Fundamentals
+* DevOps
 * Performance
 * Networking
 * Windows Systems Programming
@@ -22,7 +23,11 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ---
 ### Fundamentals
 - [How to go about troubleshooting](fundamentals/troubleshooting.md)
-- [Confident deployment](fundamentals/confident-deployment.md)
+- 
+
+### DevOps
+- [Confident deployment](devops/confident-deployment.md)
+- [Docker for Windows](devops/docker-for-windows.md)
 
 ---
 
