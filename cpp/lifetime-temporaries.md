@@ -7,6 +7,10 @@ AObject A();
 
 vs
 
+AObject(); // un-named
+
+vs
+
 auto obj = AObject();
 
 vs 
