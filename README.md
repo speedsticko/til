@@ -56,6 +56,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ### C++
 - [Memory Allocators](cpp/memory-allocators.md)
 - [Range based auto variables](cpp/range-based-auto.md)
+- [Lifetime of temporaries](cpp/lifetime-temporaries.md)
 - [eidianess]
 
 ### Machine Learning
