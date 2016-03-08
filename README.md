@@ -28,6 +28,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 ### DevOps
 - [Confident deployment](devops/confident-deployment.md)
 - [Docker for Windows](devops/docker-for-windows.md)
+- [Docker Fundamentals](devops/docker-fundamentals.md)
 
 ---
 
