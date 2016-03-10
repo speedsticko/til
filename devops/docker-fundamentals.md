@@ -2,4 +2,4 @@
 
 Docker uses Linux kernal functionality to containerize applications.
 
-Docker **images** (apps) run in **containers** (stripped down Linux).
+A Docker **container** is an "instance" of a Docker **image**. Think of images like an immutable file (list an OS image) and containers as running code starting from an image.
