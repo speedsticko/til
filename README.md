@@ -42,6 +42,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 
 ### Networking
 - [TCP Retransmit](networking/tcp-retransmits.md)
+- [TCP Delayed Ack, Nagle's Algorithm, TCP Window size](networking/tcp-delayed-ack-nagle-algorithm-window-size.md)
 - [Network diagnostics on Windows](networking/windows-network-diagnostics.md)
 
 ---
