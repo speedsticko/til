@@ -19,3 +19,4 @@ References:
 - [Netsh Trace–Use It!](https://chentiangemalc.wordpress.com/2012/02/22/netsh-traceuse-it/)
 - [Using Netsh to Manage Traces](https://msdn.microsoft.com/en-us/library/windows/desktop/dd569142(v=vs.85).aspx)
 - [Capture a Network Trace without installing anything (& capture a network trace of a reboot)](https://blogs.msdn.microsoft.com/canberrapfe/2012/03/30/capture-a-network-trace-without-installing-anything-capture-a-network-trace-of-a-reboot/)
+- [Built-In Trace Scenarios](https://technet.microsoft.com/en-us/library/jj659262.aspx)
