@@ -1,7 +1,9 @@
 
 ### Powershell Cmdlets
+These cmdlets only work on Windows Server 2012.
 - Get-NetTCPConnection
 - Get-NetTCPSettings
+
 
 ### NetSh Show
 - netsh interface tcp show global
@@ -14,6 +16,11 @@ You can quickly start start a ETW trace session on a machine with Win7 or newer 
 - netsh trace stop
 
 netsh trace has the concept of scenarios and providers. Providers are ETW event providers and scenarios are pre-defined groupings of providers in a logical task oriented group. You can also add additional providers to a scenario.
+
+
+### Tools
+- Wireshark: can't sniff localhost
+- Microsoft Message Analyzer
 
 References:
 - [Netsh Trace–Use It!](https://chentiangemalc.wordpress.com/2012/02/22/netsh-traceuse-it/)
