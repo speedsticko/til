@@ -17,6 +17,9 @@ You can quickly start start a ETW trace session on a machine with Win7 or newer 
 
 netsh trace has the concept of scenarios and providers. Providers are ETW event providers and scenarios are pre-defined groupings of providers in a logical task oriented group. You can also add additional providers to a scenario.
 
+### Netstat
+- netstat -ab
+To see which processes own which ports
 
 ### Tools
 - Wireshark: can't sniff localhost
