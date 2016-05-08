@@ -32,6 +32,8 @@ sudo docker rmi <imagename>
 sudo docker images
 sudo docker ps -a
 
+sudo docker logs <container hash>
+
 ```
 
 docker-compose is a tool to create a group of docker containers
