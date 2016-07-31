@@ -12,6 +12,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 * Networking
 * Windows Systems Programming
 * C++
+* Java
 * C#, F#, .Net 
 * JavaScript
 * Computer Science
@@ -56,11 +57,15 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [Synchronization Primatives](win32/synchronization-primatives.md)
 - [OpenTrace, ProcessTrace for consuming ETW traces](win32/consuming-etl-etw-traces.md)
 
+---
+
 ### C++
 - [Memory Allocators](cpp/memory-allocators.md)
 - [Range based auto variables](cpp/range-based-auto.md)
 - [Lifetime of temporaries](cpp/lifetime-temporaries.md)
 - [eidianess]
+
+---
 
 ### Machine Learning
 - [Deep Learning for Natural Language Processing](machinelearning/deep-learning-for-natural-language-processing.md)
@@ -72,6 +77,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 - [How WebSockets works](web/websockets.md)
 - [Same Origin Policy and CORS](web/same-origin-policy-and-cors.md)
 - [Java Servlets](web/javax-servlets.md)
+- [JSP, JSTL](web/jsp.md)
 
 
 --- 
