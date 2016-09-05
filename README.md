@@ -21,7 +21,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 * Machine Learning
 * Web Programming
 * SaaS
- 
+* VBA 
 
 ---
 ### Fundamentals
@@ -90,3 +90,7 @@ Blatantly stolen the idea for this from: https://github.com/jbranchaud/til [HN D
 --- 
 ### SaaS
 - [Things to know](saas/things-to-know.md)
+
+---
+### VBA
+- [Tidbits](vba/tidbits.md]
