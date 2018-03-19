@@ -1,7 +1,7 @@
 Swift
 =====
 
-In iOS you have to follow :sparkle: MVC.
+In iOS you have to follow :sparkles: MVC.
 
 `@IBOutlet` define variables that refer to UI elements so you can make changes to them.
 
