@@ -16,7 +16,7 @@ Constants are defined with `let` and don't need to be known at compile-time. The
 
 String interpolation syntax: wrap your values inside `\()`
 
-Multi line strings using triple `"""`:
+Multi-line strings using triple `"""`:
 ```
 let myLongString = """
 Here is a really
@@ -39,13 +39,19 @@ let emptyDictionary = [String: Float]()
 let dict = ["a":1,"b":2,"c":3,]
 ```
 
-Guard is like an "unless".
+**Optionals** are values of type `Optional<>` and can have a value or be `nil`. Indicated by writing a "?" after the type. 
+
+**Guard** is like an "unless".
 
 The `if let name = optionalName` form for "Optional Binding"  is only testing for the existence of a value within an optional.
 
 
 Control Flow
 --------------
+Conditionals: `if`, `switch`
+Loops: `for-in`, `while`, `repeat-while`.
+
+Paranthesis around the condition is optional but braces around the body are required.
 
 **Optional Chaining**
 `blah?.blah2?.blah()`
