@@ -43,8 +43,9 @@ let dict = ["a":1,"b":2,"c":3,]
 
 **Guard** is like an "unless".
 
-The `if let name = optionalName` form for "Optional Binding"  is only testing for the existence of a value within an optional.
+The `if let name = optionalName { }` form for "Optional Binding"  is only testing for the existence of a value within an optional. If the variable has a value then it is unwrapped into "name" and the body is executed. If the value is `nil` then the body is skipped. An `else` clause can be provided to execute some code when the optional is `nil`.
 
+The `??` operator can be used to provide a default value if an optional is `nil`.
 
 Control Flow
 --------------
