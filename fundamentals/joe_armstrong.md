@@ -17,7 +17,7 @@ Erlang and Elixir's central thesis:
 > Erlang and Elixir support the lightweight creation of millions of isolated processes - everything works by messaging between processes - the design of a system involves observing the concurrency you want in your application and mapping it onto processes.
 > A web server in Elixir for 10,000 users is not “one web server with 10,000 users” (like Apache or Jigsaw or all the rest) it’s “10,000 web servers with one user each” - this is a radicle departure from conventional practise.
 
-Erlang is OOP in the true Alan Kay sense:
+Erlang is OOP in the true [Alan Kay](http://wiki.c2.com/?AlanKayOnMessaging) sense:
 
 > For a long time I’ve said “Erlang is the only true OO language” (now I guess I can add Elixir).
 > 
