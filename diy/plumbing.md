@@ -22,6 +22,7 @@ Copper
 Fittings (Adapters, Connectors)
 ===============================
 - elbow
+- adapters
 - spigots and sockets
 - male and female threaded
 - reducing
@@ -29,4 +30,10 @@ Fittings (Adapters, Connectors)
 - compression fitting
 - gluing
 - push-on
+
+Miscelleneous
+=============
 - transition between pipe types
+- teflon tape
+- pipe cutters
+- hole saws
