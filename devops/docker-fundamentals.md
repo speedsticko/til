@@ -37,3 +37,9 @@ sudo docker logs <container hash>
 ```
 
 docker-compose is a tool to create a group of docker containers
+
+
+docker tips:
+
+Copying files between host and container: https://docs.docker.com/engine/reference/commandline/cp/
+docker cp file.txt containerId:/file.txt
