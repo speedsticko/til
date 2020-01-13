@@ -1,0 +1,1 @@
+Data-binding: the Vuejs way (vs jQuery). You define your view as a template and let Vuejs manage it, you then manage the data. Rather than managing the data and the view explicitly as you would with jQuery.
