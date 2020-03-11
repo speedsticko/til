@@ -5,8 +5,8 @@ Using Vue.js and Tailwindcss
 =====
 Reference: https://www.binarcode.com/blog/editable-interfaces-with-vuejs-and-tailwind/
 
-* To support sorting you need to have a data representation of your elements that can be rendered generically:
-  * You can put the page components in a javascript array and use the special Vue component component.
+* To support ordering you need to have a data representation of your elements that can be rendered generically:
+  * You can put the page components in a javascript array and use the special Vue component (https://vuejs.org/v2/guide/components-dynamic-async.html|component).
 ```
 <template>
   <div id="app" class="min-h-screen w-full bg-gray-200">
