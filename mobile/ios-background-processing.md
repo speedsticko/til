@@ -1,6 +1,9 @@
 Your iOS normally operates in the foreground by when the user switches to something else, your app will quickly switch to the background state, and a little while later the OS can suspend your app (see iOS app life-cycle).
 iOS has some features that allow you to extend the time you're in background mode and to let you perform some processing in the background.
 
+Some notes from Quinn: https://forums.developer.apple.com/thread/85066
+https://agostini.tech/2018/04/08/background-transfers-using-urlsession/
+
 There are 4 main features you can use for different use-cases:
 
 1. UIApplication beginBackgroundTask(withName:expirationHandler:) 
@@ -23,6 +26,9 @@ Since it's a seperate process the only way to share data in your tasks is throug
 
 Tips for testing from Quinn “The Eskimo!”: https://forums.developer.apple.com/thread/14855
 
-4. Background processing
+4. Background processing (iOS 13+ only)
 
 This lets you schedule tasks with the OS to be performed in the background for you.
+
+
+Also, alamofire has trouble with background sessions.
