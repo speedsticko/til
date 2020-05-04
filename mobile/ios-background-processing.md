@@ -24,6 +24,10 @@ You can fetch updated data while in the background (or suspended?).
 A seperate daemon process runs your download and upload tasks. When the tasks are completed your app is launched in the background to perform some housekeeping.
 Since it's a seperate process the only way to share data in your tasks is through the file system (i.e. nsurlsessionsd can't access your app's memory).
 
+There's lots of things to consider for making this feature work and things to look out for:
+https://forums.developer.apple.com/message/42351#42351
+[NSURLSession’s Resume Rate Limiter|https://forums.developer.apple.com/thread/14854]
+
 Tips for testing from Quinn “The Eskimo!”: https://forums.developer.apple.com/thread/14855
 
 4. Background processing (iOS 13+ only)
