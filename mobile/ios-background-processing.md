@@ -27,6 +27,7 @@ Since it's a seperate process the only way to share data in your tasks is throug
 There's lots of things to consider for making this feature work and things to look out for:
 https://forums.developer.apple.com/message/42351#42351
 [NSURLSession’s Resume Rate Limiter|https://forums.developer.apple.com/thread/14854]
+[Discussion|https://stackoverflow.com/questions/35534486/nsurlsession-background-upload-not-working]
 
 Tips for testing from Quinn “The Eskimo!”: https://forums.developer.apple.com/thread/14855
 
